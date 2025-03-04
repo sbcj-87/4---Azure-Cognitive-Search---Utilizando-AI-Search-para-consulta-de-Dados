@@ -1,0 +1,1 @@
+# 4---Azure-Cognitive-Search---Utilizando-AI-Search-para-consulta-de-Dados
